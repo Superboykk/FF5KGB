@@ -1,0 +1,32 @@
+{
+  "name": "Crystal Crust Cafe: ยานบินอบขนมปังกู้โลก",
+  "short_name": "Crystal Crust Cafe",
+  "description": "เรื่องราวนิยาย Cozy-Epic Fantasy และ Romance ของสามหนุ่มเบเกอรี่กู้โลกในจักรวาล Final Fantasy V",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#1f2937",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "icons/icon-96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "icons/icon-144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
